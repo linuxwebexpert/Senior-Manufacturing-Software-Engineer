@@ -21,11 +21,11 @@ The rules are fairly simple and adherence to these principles is greatly appreci
 - Include a README and INSTALL document
 - Using the private repo provided to push all git changes to your branch
 
-If you have not yet submitted your resume, please do so first, so we provide you the private repository.
+If you have not yet submitted your resume, please do so first, and we will provide you the private repository.
 
-The entire git repo must be complete and work on localhost or a server, so please use configuration files and environment variables.
+The entire git repo must be complete and work on localhost or a server, therefore please use configuration files and environment variables.
 
-Good luck, and we look forward to your code submission which will be reviewed and feedback provided by our senior engineers.
+Good luck, and we look forward to your code submission which will be reviewed and feedback provided by our senior engineers and staff members.
 
 This is the link to the job description:
 - [Senior Manufacturing Software Engineer](Sr%20Manufacturing%20Software%20Engineer_%20rev%206_0.docx)
