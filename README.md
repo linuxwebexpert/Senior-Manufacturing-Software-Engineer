@@ -9,7 +9,7 @@ Please take time to carefully review our job description and the required skills
 2. Connect the chat room to a PHP & MySQL backend profanity filter using AJAX
 3. Allow the moderator to add and delete words from the banned words list
 
-Here a few examples from the web on how to accomplish this challenge:
+Here are a few examples from the web on how to accomplish this challenge:
 
 - https://socket.io/get-started/chat
 - https://www.sitepoint.com/community/t/mysql-bad-word-filter/34316/3
