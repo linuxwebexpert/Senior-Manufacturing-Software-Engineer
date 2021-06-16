@@ -19,7 +19,7 @@ The rules are fairly simple and adherence to these principles is greatly appreci
 - No copy & pasting of code fragments, be original
 - Make small incremental git commits, so work is traceable
 - Include a README and INSTALL document
-- Using the private repo provided to push all git changes to your branch
+- Use the private repo provided to push all git changes to your branch
 
 If you have not yet submitted your resume, please do so first, and we will provide you the private repository.
 
